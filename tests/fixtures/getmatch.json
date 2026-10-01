@@ -1,0 +1,246 @@
+{
+ "meta": {
+  "total": 28,
+  "offset": 0,
+  "limit": 20
+ },
+ "offers": [
+  {
+   "published_at": "2026-09-25T09:01:12.674780",
+   "is_active": true,
+   "position": "Data Analyst: Offsite Search Optimisation",
+   "language": "eng",
+   "type": "web_and_tg",
+   "id": 35469,
+   "offer_type": "vacancy",
+   "cover_letter_required": false,
+   "cover_letter_placeholder": null,
+   "source": "manual",
+   "incognito_publication": false,
+   "salary_description": "7 500 —‍ 10 000 $/‍month net",
+   "salary_hidden": false,
+   "salary_display_from": 7500,
+   "salary_display_to": 10000,
+   "salary_currency": "USD",
+   "salary_taxes": "net",
+   "salary_is_total": false,
+   "salary_by_our_version": false,
+   "salary_hidden_variant": null,
+   "offer_description": "<b>What to do:</b> Build measurable foundations to track visibility, traffic sources, and performance across SEO and GEO, build technical audit architecture for customer websites, partner with product teams to adapt enriched content for SEO/GEO and external discoverability.\n\n<b>About the company:</b> Constructor.iо provides a product discovery platform (search, recommendations and much more) as a service for e-commerce. Among clients: Sephora, Petco, home24, Birkenstock.",
+   "skills_objects": [
+    {
+     "name": "SQL",
+     "slug": "sql",
+     "is_custom": false
+    },
+    {
+     "name": "Python",
+     "slug": "python",
+     "is_custom": false
+    },
+    {
+     "name": "QA",
+     "slug": "qa",
+     "is_custom": false
+    },
+    {
+     "name": "Pandas",
+     "slug": "pandas",
+     "is_custom": false
+    },
+    {
+     "name": "API",
+     "slug": "api",
+     "is_custom": false
+    },
+    {
+     "name": "NumPy",
+     "slug": "numpy",
+     "is_custom": false
+    },
+    {
+     "name": "ETL",
+     "slug": "etl",
+     "is_custom": false
+    },
+    {
+     "name": "Data Analysis",
+     "slug": "data analysis",
+     "is_custom": false
+    },
+    {
+     "name": "PySpark",
+     "slug": "pyspark",
+     "is_custom": false
+    }
+   ],
+   "url": "/vacancies/35469-data-analyst-offsite-search-optimisation",
+   "description_html": null,
+   "english_level": {
+    "name": "C1/C2 — Advanced / Fluent",
+    "vacancy_description": "Говорите, читаете, пишете одинаково свободно на любые темы"
+   },
+   "location_requirements": [
+    {
+     "location_id": "_cu-world",
+     "format": "remote",
+     "exclude": false,
+     "ancestors": [
+      "_cu-world"
+     ],
+     "metros": [],
+     "city": "Worldwide",
+     "country": "Worldwide"
+    }
+   ],
+   "location_items": [
+    {
+     "label": "Worldwide",
+     "format": "remote",
+     "exclude": false
+    }
+   ],
+   "application": null,
+   "viewed": false,
+   "company": {
+    "id": null,
+    "name": "Constructor.io",
+    "logotype": "be5e8008-f9de-49e8-a5e3-d1068fb54c99.png",
+    "url": "/companies/DnvENaQj-constructor-io"
+   },
+   "one_day_offer_content": null,
+   "one_day_offer_content_v3": null
+  },
+  {
+   "published_at": "2026-09-22T06:00:36.210746",
+   "is_active": true,
+   "position": "Команда разработки C/C++: SberLinux, Pangolin DB & Synapse API Mesh",
+   "language": "ru",
+   "type": "web_and_tg",
+   "id": 36316,
+   "offer_type": "one_day_offer_v3",
+   "cover_letter_required": false,
+   "cover_letter_placeholder": null,
+   "source": "backoffice",
+   "incognito_publication": false,
+   "salary_description": null,
+   "salary_hidden": true,
+   "salary_display_from": null,
+   "salary_display_to": null,
+   "salary_currency": null,
+   "salary_taxes": "net",
+   "salary_is_total": false,
+   "salary_by_our_version": false,
+   "salary_hidden_variant": null,
+   "offer_description": "<b>Вакансии в отделе специальных производственных задач</b>\n\n✓ Открыт подбор на несколько вакансий: Старший системный разработчик C/C++ (SberLinux), Разработчик C (Pangolin DB), C++ Developer (Platform V Synapse API Mesh).\n\n✓ Команды развивают собственную СУБД на базе PostgreSQL, семейство операционных систем SberLinux и интеграционную платформу Synapse Service Mesh на базе Istio.\n\n<b>Формат работы:</b> гибрид в Москве — 3 дня в офисе и 2 дня удалённо. Офис: Новоданиловская наб., 10, БФ «Даниловский Форт».\n\nДля позиций предусмотрено оформление 2-й формы допуска — условия работы предполагают соответствующие ограничения.\n\n<i>Подробную информацию о вакансиях и командах можно найти в описании анонса.</i>",
+   "skills_objects": [],
+   "url": "/vacancies/36316-komanda-razrabotki-c-c-sberlinux-pangolin-db",
+   "description_html": null,
+   "english_level": null,
+   "location_requirements": [
+    {
+     "location_id": "moscow__mo__russia",
+     "format": "hybrid",
+     "exclude": false,
+     "ancestors": [
+      "moscow",
+      "mo__russia",
+      "russia",
+      "_cu-europe",
+      "_cu-emea",
+      "_cu-world"
+     ],
+     "metros": [],
+     "city": "Москва",
+     "country": "Россия"
+    }
+   ],
+   "location_items": [
+    {
+     "label": "Москва",
+     "format": "hybrid",
+     "exclude": false
+    }
+   ],
+   "application": null,
+   "viewed": false,
+   "company": {
+    "id": null,
+    "name": "Сбер",
+    "logotype": "8f5d6d49-bb76-4250-9aa9-267e36fc5273.png",
+    "url": "/companies/GNRXrNQz-sber"
+   },
+   "one_day_offer_content": null,
+   "one_day_offer_content_v3": {
+    "date": "",
+    "teams": {
+     "items": [
+      {
+       "text": "SberLinux OS — это семейство современных RPM-base-дистрибутивов, разработанное внутри группы компаний Сбер для решения задач серверных и контейнерных вычислений с использованием передовых технологий контейнеризации и виртуализации.",
+       "header": "SberLinux"
+      },
+      {
+       "text": "<p>Наша команда развивает собственную СУБД, основанную на open-source PostgreSQL с учётом повышенных требований к безопасности хранимой информации, надёжности, доступности и удобству сопровождения.</p>\n<p>Помимо самой СУБД мы развиваем инструменты развёртывания и обновления продукта, графическую консоль управления СУБД, а также широкий набор различных утилит и расширений. Продукт является целевой СУБД Сбера и в настоящее время используется более чем в 500 автоматизированных системах, что составляет более 25 000 активных инсталляций.</p>\n",
+       "header": "Pangolin DB"
+      },
+      {
+       "text": "<p>Мы развиваем Synapse Service Mesh — новую интеграционную платформу на базе Istio. Это облачное решение для интеграции и миграции сервисов, рассчитанное на обработку миллионов запросов. Платформа состоит из высоконагруженных компонентов и используется для построения интеграций множества банковских сервисов.</p>\n<p>Одно из ключевых направлений развития — собственная сборка Envoy Proxy, применяемая в составе Service Mesh. В рамках этого направления мы разрабатываем нативные C++-расширения Envoy: фильтры, механизмы обработки HTTP-трафика, работу с метаданными, метриками, конфигурацией и диагностикой.</p>\n",
+       "header": "Synapse API Mesh"
+      }
+     ],
+     "header": "В какие команды нанимаем"
+    },
+    "format": "",
+    "schedule": {
+     "items": [
+      {
+       "date": "",
+       "text": "",
+       "header": "Подайте заявку"
+      },
+      {
+       "date": "",
+       "text": "",
+       "header": "Обсудите с рекрутером процесс и количество интервью"
+      },
+      {
+       "date": "",
+       "text": "",
+       "header": "Пройдите интервью и получите оффер!"
+      }
+     ],
+     "header": "Как пройдёт мероприятие"
+    },
+    "block_one": {
+     "header": "Присоединяйтесь к команде разработки C/C++",
+     "short_description": "<p>В отдел специальных производственных задач открыт подбор на несколько вакансий:</p>\n<ul>\n  <li>Старший системный разработчик C/C++ Linux (SberLinux)</li>\n  <li>Разработчик C (Pangolin DB)</li>\n  <li>C++-разработчик (Platform V Synapse API Mesh)</li>\n</ul>\n\n"
+    },
+    "block_two": {
+     "stack": [],
+     "header": "Особые требования, выдвигаемые Отделом специальных производственных задач:",
+     "short_description": "* Вероятен запрет выезда за границу.\n* У кандидата и его близких родственников не должно быть судимости, возбужденных в их отношении уголовных дел и иных проблем с законом.\n* Кандидат и его близкие родственники не должны иметь никакого отношения к деятельности запрещённых на территории РФ организаций.\n* Кандидат должен быть полностью дееспособен, не состоять на учёте в психоневрологическом и наркологическом диспансере, не иметь каких-либо зависимостей (алкогольной, наркотической, игровой и т. п.).\n* Кандидат и его близкие родственники не должны проживать на постоянной основе за границей (более 6 месяцев в течение года).\n* У кандидата и его близких родственников не должно быть иностранного гражданства, подданства, ВНЖ в иностранном государстве.\n\n\n\n\n"
+    },
+    "advantages": {
+     "items": [
+      {
+       "icon": "🏢",
+       "text": " ИТ-аккредитованная компания",
+       "header": ""
+      },
+      {
+       "icon": "💰",
+       "text": " Дополнительная надбавка к окладной части за 2-ю форму допуска",
+       "header": ""
+      },
+      {
+       "icon": "🛡️",
+       "text": "Бронь в период мобилизации и военного положения (для пребывающих в запасе) или отсрочка от прохождения срочной службы (для призывников)",
+       "header": ""
+      }
+     ],
+     "header": "Преимущества работы с нами"
+    }
+   }
+  }
+ ]
+}

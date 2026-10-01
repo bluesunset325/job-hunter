@@ -1,0 +1,43 @@
+{
+ "jobCount": 2,
+ "jobs": [
+  {
+   "id": 154032,
+   "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+   "jobSlug": "154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox",
+   "jobTitle": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+   "companyName": "Mozilla",
+   "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/mozilla.jpg",
+   "jobIndustry": [
+    "Software Engineering"
+   ],
+   "jobType": [
+    "Contract"
+   ],
+   "jobGeo": "Canada,  France,  Germany,  UK",
+   "jobLevel": "Any",
+   "jobExcerpt": "The role You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven. Responsibilities Build and improve WebCompat dashboards (triage, reporting, and metrics). Improve&hellip;",
+   "jobDescription": "<h3><strong>The role</strong></h3>\n<p>You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Build and improve WebCompat dashboards (triage, reporting, and metrics).</li>\n<li>Improve the broken-site-report screenshot capture and pipeline.</li>\n<li>Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.</li>\n</ul>\n<h3><strong>Required qualifications</strong></h3>\n<ul>\n<li>Solid web development (JavaScript, HTML, CSS, Python &amp; Django) and experience building dashboards / data views.</li>\n<li>Comfort with tooling, automation, and web services.</li>\n<li>Self-directed, with good written communication.</li>\n</ul>\n<h3><strong>Preferred</strong></h3>\n<ul>\n<li>Familiarity with WebCompat workflows and Bugzilla.</li>\n<li>Experience with screenshot / automation pipelines.</li>\n<li>Experience with Machine Learning</li>\n</ul>",
+   "pubDate": "2026-09-24T15:33:08+00:00"
+  },
+  {
+   "id": 151507,
+   "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
+   "jobSlug": "151507-senior-ai-solutions-engineer-python-aws-bedrock",
+   "jobTitle": "Senior AI Solutions Engineer (Python & AWS Bedrock)",
+   "companyName": "Oowlish Technology",
+   "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/c279fe91-221.jpg",
+   "jobIndustry": [
+    "Software Engineering"
+   ],
+   "jobType": [
+    "Full-Time"
+   ],
+   "jobGeo": "LATAM,  Argentina,  Brazil,  Mexico",
+   "jobLevel": "Senior",
+   "jobExcerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+   "jobDescription": "<p><b>Join Our Team</b></p>\n\n<p>Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team.</p>\n\n<p>As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact.</p>\n\n<p>We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence.</p>\n\n<h3>About the Role</h3>\n<p>We are looking for an experienced <strong>AI Solutions Engineer</strong> to help build an AI-powered IT Help Desk Automation platform using AWS Bedrock and modern serverless technologies.</p>\n<p>This role focuses on designing intelligent automation workflows that leverage AI agents to streamline IT operations, including ticket triage, request routing, and identity/access management automation across enterprise systems.</p>\n<p>The ideal candidate combines strong Python development skills with hands-on experience building AI-powered applications using AWS Bedrock and modern AWS serverless services.</p>\n<h3>Key Responsibilities:</h3>\n<ul>\n<li>Design and develop AI-powered automation solutions using AWS Bedrock.</li>\n<li>Build and orchestrate AI agents capable of handling IT help desk workflows.</li>\n<li>Develop integrations with enterprise platforms using REST APIs.</li>\n<li>Implement automation for ticket triage, routing, and access request workflows.</li>\n<li>Build serverless applications using AWS Lambda and Step Functions.</li>\n<li>Integrate AI workflows with KACE, Okta, Azure AD, and similar enterprise platforms.</li>\n<li>Design secure, scalable, and maintainable cloud-native solutions.</li>\n<li>Collaborate with engineering teams to continuously improve AI agent performance.</li>\n<li>Participate in architecture discussions and technical decision-making.</li>\n</ul>\n<h3>Requirements:</h3>\n<ul>\n<li>5+ years of software engineering experience.</li>\n<li>Strong Python development experience.</li>\n<li>Hands-on experience with AWS cloud services.</li>\n<li>Experience building cloud-native applications.</li>\n<li>Experience integrating enterprise systems using REST APIs.</li>\n<li>Strong problem-solving skills.</li>\n<li>Experience working in Agile environments.</li>\n<li>Strong English communication skills.</li>\n</ul>\n<h3>Must Have:</h3>\n<li>Strong Python development experience.</li>\n<li>Hands-on experience with AWS Bedrock.</li>\n<li>Experience building AI Agents.</li>\n<li>Experience with:\n<ul>\n<li>Bedrock Agents</li>\n<li>Action Groups</li>\n<li>Guardrails</li>\n<li>Experience developing serverless applications using:\n<ul>\n<li>AWS Lambda</li>\n<li>AWS Step Functions</li>\n<li>Experience integrating enterprise systems through REST APIs.</li>\n<li>Experience with identity and access management integrations.</li>\n<li>Experience designing scalable cloud-native architectures.</li>\n<li>Strong understanding of Generative AI application development.</li>\n</ul>\n</li>\n</ul>\n</li>\n<h3>Nice to Have:</h3>\n<li>Experience integrating with:\n<ul>\n<li>Okta</li>\n<li>Azure Active Directory (Azure AD)</li>\n<li>KACE</li>\n<li>Experience with enterprise ITSM platforms.</li>\n<li>Experience with authentication and identity management.</li>\n<li>Experience with Amazon API Gateway.</li>\n<li>Experience with EventBridge or SQS.</li>\n<li>Experience with Infrastructure as Code.</li>\n<li>Experience with prompt engineering.</li>\n<li>Experience optimizing AI agent workflows.</li>\n</ul>\n</li>\n<h3>Compensation</h3>\n<h3>Additional Information</h3>\n\n<p><b>Benefits &amp; Perks:</b></p>\n\n<p>Home office;</p>\n<p>Competitive compensation based on experience;</p>\n<p>Career plans to allow for extensive growth in the company;</p>\n<p>International Projects;</p>\n<p>Oowlish English Program (Technical and Conversational);</p>\n<p>Oowlish Fitness with Total Pass;</p>\n<p>Games and Competitions;</p>\n<p><b>You can also apply here:</b></p>\n\n<p>Website: https://www.oowlish.com/work-with-us/</p>\n<p>LinkedIn: https://www.linkedin.com/company/oowlish/jobs/</p>\n<p>Instagram: https://www.instagram.com/oowlishtechnology/</p>",
+   "pubDate": "2026-09-24T04:40:24+00:00"
+  }
+ ]
+}

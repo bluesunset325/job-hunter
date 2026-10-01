@@ -1,0 +1,125 @@
+{
+ "status": "success",
+ "result": {
+  "projects": [
+   {
+    "id": 40734747,
+    "title": "Análisis de Temas en Documentos",
+    "seo_url": "natural-language-processing/lisis-Temas-Documentos",
+    "type": "fixed",
+    "currency": {
+     "id": 1,
+     "code": "USD",
+     "sign": "$",
+     "name": "US Dollar",
+     "exchange_rate": 1.0,
+     "country": "US",
+     "is_external": false,
+     "is_escrowcom_supported": true
+    },
+    "budget": {
+     "minimum": 10.0,
+     "maximum": 30.0,
+     "name": null,
+     "project_type": null,
+     "currency_id": null
+    },
+    "time_submitted": 1790425980,
+    "bid_stats": {
+     "bid_count": 24,
+     "bid_avg": 38.416666666666664,
+     "min_amount": null,
+     "max_amount": null,
+     "min_period": null,
+     "max_period": null,
+     "bidder_count_per_country": null,
+     "min_review_count": null,
+     "max_review_count": null
+    },
+    "preview_description": "Tengo varios archivos de texto que necesito examinar a fondo. Tu tarea será leerlos, procesar su con",
+    "description": "Tengo varios archivos de texto que necesito examinar a fondo. Tu tarea será leerlos, procesar su contenido y entregarme un informe claro donde señales los temas clave que aparecen en cada documento.\n\nBusco a alguien que:\n• Comprenda técnicas de análisis de texto (minería de datos, NLP básico o similares).  \n• Sepa extraer patrones y agrupar ideas recurrentes sin perder matices importantes.  \n• Entregue resultados bien estructurados, preferiblemente en un PDF con secciones por documento y un resumen ejecutivo global.\n\nQué recibiré de tu parte:\n1. Un listado de los temas principales detectados en cada archivo.  \n2. Una breve explicación de por qué se consideran relevantes.  \n3. Recomendaciones, si las hubiera, sobre cómo organizar o presentar mejor la información.\n\nSi manejas herramientas como Python con NLTK/spaCy, R, o suites de análisis de texto existentes, menciónalo; me interesa conocer tu enfoque técnico. Adjunta ejemplos de trabajos similares o una muestra de cómo presentarías los hallazgos.\n\nEspero tu propuesta para empezar cuanto antes.",
+    "language": "es",
+    "status": "active"
+   },
+   {
+    "id": 40734968,
+    "title": "Back-End and Data Engineering Support",
+    "seo_url": "backend-development/Back-End-Data-Engineering-Support",
+    "type": "fixed",
+    "currency": {
+     "id": 11,
+     "code": "INR",
+     "sign": "₹",
+     "name": "Indian Rupee",
+     "exchange_rate": 0.010436,
+     "country": "IN",
+     "is_external": false,
+     "is_escrowcom_supported": false
+    },
+    "budget": {
+     "minimum": 12500.0,
+     "maximum": 37500.0,
+     "name": null,
+     "project_type": null,
+     "currency_id": null
+    },
+    "time_submitted": 1790436159,
+    "bid_stats": {
+     "bid_count": 17,
+     "bid_avg": 19371.824705882354,
+     "min_amount": null,
+     "max_amount": null,
+     "min_period": null,
+     "max_period": null,
+     "bidder_count_per_country": null,
+     "min_review_count": null,
+     "max_review_count": null
+    },
+    "preview_description": "Long-Term Technical Partner for Agencies — Backend, APIs, Data Pipelines\n\nLooking for IT agencies an",
+    "description": "Long-Term Technical Partner for Agencies — Backend, APIs, Data Pipelines\n\nLooking for IT agencies and consultancies that need extra backend and data engineering capacity.\n\nDo you already have B2B clients and projects but sometimes lack the backend/data engineering capacity to deliver the technical work?\n\nI can join your projects as an external technical partner or subcontractor.\n\nTo be clear about what this is not: I'm not looking for direct end-client work, and I'm not asking you to sell for me. You own the client, the commercial terms, and the relationship. I own the agreed technical scope and deliver it.\n\nI can help with projects involving:\n\nStudent Projects & Assignments – Support with programming projects, academic assignments, debugging, and technical guidance.\n\nData Structures & Algorithms (DSA) – Problem solving, coding challenges, algorithm design, optimization, and interview preparation.\n\nOperating Systems – OS concepts, processes, threads, memory management, synchronization, scheduling, and related assignments.\n\nComputer Networks – Networking concepts, protocols, TCP/IP, HTTP/HTTPS, troubleshooting, and network-related projects.\n\nDatabase Management Systems (DBMS) – Database design, normalization, indexing, transactions, queries, and database optimization.\n\nSQL & PostgreSQL – SQL queries, joins, subqueries, stored procedures, database design, optimization, and PostgreSQL development.\n\nNoSQL Databases – MongoDB, Redis, and other NoSQL technologies, including data modeling and performance optimization.\n\nBack-End Development – API development, server-side applications, authentication, database integration, and backend architecture.\n\nFull-Stack Development – End-to-end web application development, covering both frontend and backend technologies.\n\nPython Development & Automation – Custom scripts, workflow automation, data processing, API integrations, and repetitive-task automation.\n\nTechnical Content Writing – Technical documentation, programming tutorials, developer-focused articles, documentation, and educational content.\n\nTechnical Support – Troubleshooting, debugging, software support, technical guidance, and issue resolution.\n\nMock Interviews – Technical mock interviews, coding interviews, DSA interviews, system-design discussions, and interview feedback.\n\nInterview Preparation & Virtual Support – One-on-one guidance, technical interview preparation, problem-solving practice, and real-time virtual support to help candidates prepare for and perform better in technical interviews.\n\nI can work completely behind the scenes or participate directly in technical communication with the client, depending on how your project is structured.\n\nPayment\n\nCommercial terms are agreed separately for each project: hourly, fixed-price, or another arrangement that works for both sides.\n\nI’m particularly interested in agencies and consultants who already have a steady flow of technical projects and occasionally need additional engineering capacity without hiring a full-time employee.\n\nIf this model fits your business, please briefly tell me:\n\n1. What does your company do?\n2. What types of projects do you usually deliver?\n3. What technical work do you most often need additional support with?\n\nHappy to start with a small paid piece of work so you can see how I deliver before anything bigger.",
+    "language": "en",
+    "status": "active"
+   },
+   {
+    "id": 40734681,
+    "title": "PDF-to-Excel Full Content Extraction",
+    "seo_url": "data-extraction/PDF-Excel-Full-Content-Extraction",
+    "type": "hourly",
+    "currency": {
+     "id": 1,
+     "code": "USD",
+     "sign": "$",
+     "name": "US Dollar",
+     "exchange_rate": 1.0,
+     "country": "US",
+     "is_external": false,
+     "is_escrowcom_supported": true
+    },
+    "budget": {
+     "minimum": 2.0,
+     "maximum": 8.0,
+     "name": null,
+     "project_type": null,
+     "currency_id": null
+    },
+    "time_submitted": 1790424248,
+    "bid_stats": {
+     "bid_count": 43,
+     "bid_avg": 6.127906976744186,
+     "min_amount": null,
+     "max_amount": null,
+     "min_period": null,
+     "max_period": null,
+     "bidder_count_per_country": null,
+     "min_review_count": null,
+     "max_review_count": null
+    },
+    "preview_description": "I have a multi-page PDF that blends paragraphs of text with embedded tables, and I need every single",
+    "description": "I have a multi-page PDF that blends paragraphs of text with embedded tables, and I need every single element—no exceptions—reproduced in Excel while keeping the logical order intact. The final workbook should let me sort, filter, or run formulas on the data without having to clean it further.\n\nBecause the file is a mix of textual narratives and tabular data, I’m open to whatever blend of tools you prefer—whether that’s Adobe Acrobat, Power Query, Python + pandas, or a purpose-built OCR engine—so long as the output is accurate to the character and the layout remains clear. Speed is welcome, but fidelity comes first; superscripts, special characters, and column breaks all need to land in the right cells.\n\nWhen you send your proposal, please walk me through the exact steps you’ll use, any quality-control checks you run, and your estimated turnaround time. Feel free to include a short sample plan or screenshot from a similar job if you have one.\n\nDeliverables  \n• An Excel (.xlsx) file that contains every table and every block of text from the original PDF, arranged logically.  \n• A brief log or read-me noting any ambiguous elements you encountered and how you resolved them.  \n\nI will review proposals that explain the workflow in detail and demonstrate that you can preserve both text integrity and table structure without manual clean-up on my end.",
+    "language": "en",
+    "status": "active"
+   }
+  ],
+  "total_count": 3
+ }
+}

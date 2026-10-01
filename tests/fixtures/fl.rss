@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+<channel>
+  <title>Заказы на FL.ru (Фри-ланс: Программирование)</title>
+  <link>https://www.fl.ru</link>
+  <description>Заказы/Предложения на сайте www.fl.ru (Удаленная работа)</description>
+  <language>ru-ru</language> 
+  <pubDate>Fri, 25 Sep 2026 11:00:18 GMT</pubDate>
+  <lastBuildDate>Fri, 25 Sep 2026 11:00:18 GMT</lastBuildDate> 
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+  <generator>FL.ru RSS Generator</generator> 
+  <image>
+    <url>https://www.fl.ru/images/free-lance_logo.jpg</url>
+    <title>Заказы на FL.ru (Фри-ланс: Программирование)</title>
+    <link>https://www.fl.ru</link> 
+    <width>113</width>
+    <height>18</height>
+  </image>
+  <managingEditor>info@fl.ru</managingEditor>
+  <webMaster>info@fl.ru</webMaster>
+      <item>
+      <title>Помощь в настройке ИИ Qwen 3.8 27B на компьютер или мощнее </title>
+      <link>https://www.fl.ru/projects/5523345/pomosch-v-nastroyke-ii-qwen-38-27b-na-kompyuter-ili-moschnee-.html</link>
+                  <description>Помощь в настройке ИИ Qwen 3. 27B на компьютер или мощнее.</description>
+            <guid>https://www.fl.ru/projects/5523345/pomosch-v-nastroyke-ii-qwen-38-27b-na-kompyuter-ili-moschnee-.html</guid>
+            <category>Программирование / Прикладное программирование</category>
+            <pubDate>Fri, 25 Sep 2026 10:50:24 GMT</pubDate>
+    </item>
+      <item>
+      <title>Разворот систем во внутреннем контуре компании (Airflow, DWH PostgreSQL, SuperSet, Elma365)</title>
+      <link>https://www.fl.ru/projects/5523344/razvorot-sistem-vo-vnutrennem-konture-kompanii-airflow-dwh-postgresql-superset-elma365.html</link>
+                  <description>Ищем опытного DevOps / инфраструктурного инженера для помощи в запуске внутреннего IT-проекта крупной производственной группы.
+
+Мы — отдельное функциональное подразделение....</description>
+            <guid>https://www.fl.ru/projects/5523344/razvorot-sistem-vo-vnutrennem-konture-kompanii-airflow-dwh-postgresql-superset-elma365.html</guid>
+            <category>Программирование / DevOps</category>
+            <pubDate>Fri, 25 Sep 2026 10:49:28 GMT</pubDate>
+    </item>
+      </channel>
+</rss>

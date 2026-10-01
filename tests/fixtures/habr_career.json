@@ -1,0 +1,278 @@
+{
+ "list": [
+  {
+   "id": 1000168585,
+   "href": "/vacancies/1000168585",
+   "title": "Инженер по тестированию (Python / API) / QA Engineer",
+   "isMarked": true,
+   "remoteWork": true,
+   "salaryQualification": {
+    "title": "Средний (Middle)",
+    "href": "/vacancies?qid=4"
+   },
+   "publishedDate": {
+    "date": "2026-09-21T10:42:44+03:00",
+    "title": "21 сентября"
+   },
+   "location": null,
+   "company": {
+    "id": 1000086141,
+    "alias_name": "ibs",
+    "href": "/companies/ibs",
+    "title": "IBS",
+    "accredited": true,
+    "logo": {
+     "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/004/770/4/logo/medium_6d05479a9e2f4fc34b229cfd2936b50a.png"
+    },
+    "rating": {
+     "title": "Средняя оценка компании в 2025 году",
+     "value": "4.02",
+     "href": "/companies/ibs/scores/2025"
+    }
+   },
+   "employment": "full_time",
+   "salary": {
+    "from": null,
+    "to": null,
+    "currency": null,
+    "formatted": ""
+   },
+   "divisions": [
+    {
+     "title": "Инженер по автоматизации тестирования",
+     "href": "/vacancies/spec/testing/test_automation"
+    }
+   ],
+   "skills": [
+    {
+     "title": "Python",
+     "href": "/vacancies/programmist_python"
+    }
+   ],
+   "media": null,
+   "locations": null,
+   "favorite": false,
+   "archived": false,
+   "hidden": false,
+   "can_edit": false,
+   "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+   "quickResponseHref": "/api/frontend/quick_responses",
+   "qualification": "Middle",
+   "predictedSalary": null,
+   "reactions": {
+    "items": [
+     {
+      "name": "arrow",
+      "title": "arrow",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f3af.svg"
+     },
+     {
+      "name": "bang",
+      "title": "bang",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f4a5.svg"
+     },
+     {
+      "name": "cash",
+      "title": "cash",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f4b0.svg"
+     },
+     {
+      "name": "boom",
+      "title": "boom",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f389.svg"
+     },
+     {
+      "name": "fire",
+      "title": "fire",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f525.svg"
+     },
+     {
+      "name": "glass",
+      "title": "glass",
+      "hasReacted": false,
+      "count": 1,
+      "image": "/images/emoji/1f942.svg"
+     },
+     {
+      "name": "snow",
+      "title": "snow",
+      "hasReacted": false,
+      "count": 1,
+      "image": "/images/emoji/2744.svg"
+     },
+     {
+      "name": "heart",
+      "title": "heart",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/2764.svg"
+     }
+    ],
+    "fallbackHref": "https://career.habr.com/users/auth/tmid"
+   },
+   "response": {
+    "kind": "guest"
+   },
+   "hasPublishedCBP": true,
+   "color": "#3525D4"
+  },
+  {
+   "id": 1000168402,
+   "href": "/vacancies/1000168402",
+   "title": "Python разработчик ",
+   "isMarked": true,
+   "remoteWork": true,
+   "salaryQualification": {
+    "title": "Средний (Middle)",
+    "href": "/vacancies?qid=4"
+   },
+   "publishedDate": {
+    "date": "2026-09-16T14:59:12+03:00",
+    "title": "16 сентября"
+   },
+   "location": null,
+   "company": {
+    "id": 1000099386,
+    "alias_name": "bgstaff",
+    "href": "/companies/bgstaff",
+    "title": "BGStaff",
+    "accredited": false,
+    "logo": {
+     "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/006/094/9/logo/medium_4a301072dec6b6a49050e5b294cd7983.png"
+    },
+    "rating": null
+   },
+   "employment": "part_time",
+   "salary": {
+    "from": null,
+    "to": null,
+    "currency": null,
+    "formatted": ""
+   },
+   "divisions": [
+    {
+     "title": "Бэкенд разработчик",
+     "href": "/vacancies/spec/development/backend"
+    }
+   ],
+   "skills": [
+    {
+     "title": "Python",
+     "href": "/vacancies/programmist_python"
+    },
+    {
+     "title": "Django",
+     "href": "/vacancies/django_razrabotchik"
+    },
+    {
+     "title": "FastAPI",
+     "href": "/vacancies/skills/fastapi"
+    },
+    {
+     "title": "MySQL",
+     "href": "/vacancies/skills/mysql"
+    },
+    {
+     "title": "PostgreSQL",
+     "href": "/vacancies/skills/postgresql"
+    },
+    {
+     "title": "TTS",
+     "href": "/vacancies/skills/tts"
+    }
+   ],
+   "media": null,
+   "locations": null,
+   "favorite": false,
+   "archived": false,
+   "hidden": false,
+   "can_edit": false,
+   "userVacancyBanHref": "/api/frontend/user_vacancy_bans",
+   "quickResponseHref": "/api/frontend/quick_responses",
+   "qualification": "Middle",
+   "predictedSalary": null,
+   "reactions": {
+    "items": [
+     {
+      "name": "arrow",
+      "title": "arrow",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f3af.svg"
+     },
+     {
+      "name": "bang",
+      "title": "bang",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f4a5.svg"
+     },
+     {
+      "name": "cash",
+      "title": "cash",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f4b0.svg"
+     },
+     {
+      "name": "boom",
+      "title": "boom",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f389.svg"
+     },
+     {
+      "name": "fire",
+      "title": "fire",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f525.svg"
+     },
+     {
+      "name": "glass",
+      "title": "glass",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/1f942.svg"
+     },
+     {
+      "name": "snow",
+      "title": "snow",
+      "hasReacted": false,
+      "count": 1,
+      "image": "/images/emoji/2744.svg"
+     },
+     {
+      "name": "heart",
+      "title": "heart",
+      "hasReacted": false,
+      "count": 0,
+      "image": "/images/emoji/2764.svg"
+     }
+    ],
+    "fallbackHref": "https://career.habr.com/users/auth/tmid"
+   },
+   "response": {
+    "kind": "guest"
+   },
+   "hasPublishedCBP": false,
+   "color": null
+  }
+ ],
+ "meta": {
+  "totalResults": 227,
+  "perPage": 25,
+  "currentPage": 1,
+  "totalPages": 10
+ }
+}

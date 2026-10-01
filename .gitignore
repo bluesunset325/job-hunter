@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.env
+data/
+logs/
+*.session
+*.session-journal
+.DS_Store
+resume.md

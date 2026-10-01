@@ -1,0 +1,51 @@
+telegram:
+  bot_token_env: JH_BOT_TOKEN
+  chat_id: 0            # твой chat_id: напиши боту @userinfobot
+telethon:
+  api_id_env: JH_TG_API_ID
+  api_hash_env: JH_TG_API_HASH
+  session_path: data/telethon
+  channels: []          # username каналов без @, например: ["some_python_jobs"]
+ollama:
+  url: http://localhost:11434
+  model: qwen3:14b
+  timeout_s: 120
+search:
+  query: python
+  keywords: [python, питон, aiogram, telegram-бот, телеграм-бот, бот, парсер, парсинг,
+             fastapi, django, flask, автоматизац, scraping, selenium, playwright, llm, gpt,
+             bot, telegram, scrap, crawl, automat, parser, parsing, chatbot, openai]
+  stop_words: [1с, 1c, bitrix, битрикс, "senior+", "lead", тимлид, "офис", "гибрид",
+               "hybrid", "on-site", "onsite"]
+  min_salary_rub: 80000
+  min_freelance_usd: 50   # зарубежный фриланс дешевле $50 отсекается (к рублёвым заказам не применяется)
+scoring:
+  score_threshold: 65
+  max_per_run: 15
+  max_score_per_run: 20
+rates:
+  RUB: 1
+  USD: 82
+  EUR: 95
+  GBP: 110
+sources:
+  hh: true
+  habr_career: true
+  getmatch: true
+  remoteok: true
+  wwr: true
+  himalayas: true
+  kwork: true
+  fl: true
+  freelancer: true
+  pph: true
+  remotive: true
+  jobicy: true
+  telegram: false       # включить после `python -m sources.telegram --login`
+candidate_notes: >
+  Пример: английский средний (B1): переписка и чтение ТЗ на английском нормально,
+  созвоны на английском даются тяжело. Интересен фриланс по Python:
+  боты, парсеры, автоматизация, LLM. Замени на свои предпочтения.
+db_path: data/jobs.db
+resume_path: resume.md      # cp resume.example.md resume.md и впиши своё резюме
+log_path: logs/job_hunter.log
